@@ -61,38 +61,24 @@ h2,h4,h5{
 
 .titulosBeco{
     font-weight: bold;
-    font-style: oblique;
+    font-style:italic;
+    text-align: center;
 }
 
 .textosBeco{
-    line-height: 2em;
+    line-height: 1.5em;
     text-align: justify;
-    padding: 1em;
+    padding: 0.8em;
 }
 
 footer{
     height: 130px;
 }
 
-.contenedorFacebook a{
-    font-size: 40px;
-    color: blue;
+.redes{
+    padding: 15px;
 }
 
-.contenedorTwitter a{
-    font-size: 40px;
-    color: rgb(0, 172, 238);
-}
-
-.contenedorInstagram a{
-    font-size: 40px;
-    color: rgb(232, 147, 43);
-}
-
-.contenedorYoutube a{
-    font-size: 40px;
-    color: rgb(196, 48, 43);
-}
 
 
 
